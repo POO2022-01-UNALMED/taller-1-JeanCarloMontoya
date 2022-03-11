@@ -1,0 +1,1 @@
+Ahora si se puede crear un commit porque la carpeta al estar vacia no es detectada por git, pero al darle algun file, si la detecta
