@@ -1,3 +1,8 @@
+
 Jean Carlo Montoya Castro
 19
 mis aspiraciones son aprender a programar mas y entender las clases y objetos
+
+Ahora si se puede crear un commit porque la carpeta al estar vacia no es detectada por git, pero al darle algun file, si la detecta
+
+es importante no modificar 2 archivos al mismo tiempo porque podrian haber errores y dañariamos nuestro codigo
